@@ -1,0 +1,8 @@
+{
+    "new":{ "rate": 3, "rateDays": 1, "extra": 3, "bonus": 1 },
+    "regular":{ "rate":2, "rateDays":2, "extra":1.5, "bonus": 0  },
+    "childrens":{ "rate": 1.5, "rateDays": 3, "extra": 1.5, "bonus": 0 },
+    "scifi":{ "rate": 1.5, "rateDays": 2, "extra": 1, "bonus": 0 },
+    "comedy":{  "rate": 1.5, "rateDays": 2, "extra": 1, "bonus": 0 },
+    "horror":{  "rate": 1.5, "rateDays": 5, "extra": 1, "bonus": 0 }
+}
